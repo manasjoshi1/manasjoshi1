@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manas-joshi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1jvIX7yqNzlgL9Hd3g6rZsjroVamo_f-0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
 </p>
 
 ---
